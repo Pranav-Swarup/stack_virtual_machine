@@ -51,3 +51,6 @@ This will execute test.sasm on the stack-based VM.
 5. out.bin	Binary output of sasm.cpp, fed into stack-vm for execution.
 6. Makefile	Automates compilation of the assembler and VM.
 
+Pranav Swarup 2025 ©
+________________________
+References: https://github.com/pbohun/stack-vm-tutorials 
